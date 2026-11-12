@@ -1,0 +1,15 @@
+{
+  "name": "troquel-ai",
+  "owner": { "name": "Troquel", "url": "https://troquel.ai" },
+  "description": "Troquel para Claude: creativos publicitarios con IA para ecommerce, pagando por generación.",
+  "plugins": [
+    {
+      "name": "troquel",
+      "displayName": "Troquel",
+      "source": "./plugins/troquel",
+      "description": "Imágenes, video y voz publicitarios, video UGC terminado y lectura de la biblioteca de anuncios de Meta, con tus créditos de Troquel.",
+      "category": "marketing",
+      "tags": ["ads", "ecommerce", "image-generation", "video-generation", "ugc", "meta-ads"]
+    }
+  ]
+}

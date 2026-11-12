@@ -1,0 +1,21 @@
+{
+  "name": "troquel",
+  "displayName": "Troquel",
+  "version": "1.0.0",
+  "description": "Imágenes, video y voz publicitarios, video UGC terminado y lectura de la biblioteca de anuncios de Meta, con tus créditos de Troquel.",
+  "author": {
+    "name": "Troquel",
+    "url": "https://troquel.ai"
+  },
+  "homepage": "https://troquel.ai/mcp",
+  "license": "MIT",
+  "keywords": [
+    "ads",
+    "ecommerce",
+    "image-generation",
+    "video-generation",
+    "ugc",
+    "meta-ads",
+    "mcp"
+  ]
+}
